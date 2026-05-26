@@ -5,8 +5,6 @@ class Subgrove < Formula
   sha256 "a66cd551315baf50cadddf1a6e32daaced912411cec8166816b903fe473cc5dc"
   license "MIT"
 
-  depends_on "git"
-
   def install
     bin.install "subgrove"
   end
