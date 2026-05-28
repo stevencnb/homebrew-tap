@@ -1,13 +1,13 @@
 # homebrew-tap
 
-Homebrew formulae for [StevenChangZH](https://github.com/StevenChangZH) projects.
+Homebrew formulae for [stevencnb](https://github.com/stevencnb) projects.
 
 ## subgrove
 
 Parallel feature worktrees for a git superproject with submodules — one feature, one parent worktree, isolated submodule git dirs, cross-worktree merge propagation.
 
 ```sh
-brew install StevenChangZH/tap/subgrove
+brew install stevencnb/tap/subgrove
 ```
 
-Source and docs: [StevenChangZH/subgrove](https://github.com/StevenChangZH/subgrove).
+Source and docs: [stevencnb/subgrove](https://github.com/stevencnb/subgrove).
