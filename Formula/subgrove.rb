@@ -7,6 +7,8 @@ class Subgrove < Formula
 
   def install
     bin.install "subgrove"
+    bash_completion.install "completions/subgrove.bash" => "subgrove"
+    zsh_completion.install "completions/_subgrove"
   end
 
   test do
