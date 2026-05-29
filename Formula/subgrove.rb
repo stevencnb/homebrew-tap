@@ -1,8 +1,8 @@
 class Subgrove < Formula
   desc "Parallel feature worktrees for a git superproject with submodules"
   homepage "https://github.com/stevencnb/subgrove"
-  url "https://github.com/stevencnb/subgrove/archive/refs/tags/v0.1.1.tar.gz"
-  sha256 "10faf3480c8dddbb628efac9459843012fdc1024f93ab40029637308c4f693c1"
+  url "https://github.com/stevencnb/subgrove/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "7b790986fb813fe3c86f563095d205b5e2b3e8efbc95701c9c7f10e81579cdbd"
   license "MIT"
 
   def install
